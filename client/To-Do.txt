@@ -1,0 +1,5 @@
+admin side - 
+1. uploading a new product 
+2. deleting product off the website 
+3. how many users are registered
+4. 

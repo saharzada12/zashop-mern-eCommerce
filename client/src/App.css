@@ -1,0 +1,13 @@
+*{
+
+    font-family: 'Roboto', sans-serif;
+
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.Reg-Link{
+    text-decoration: none;
+    color: #f0e0e0;
+}
